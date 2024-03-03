@@ -1,6 +1,4 @@
 # Gym-Management-System
-Certainly! When creating a GitHub repository for your Gym Management System project, you'll want to ensure it's well-documented and organized. Here's a suggested structure and points to include in your GitHub repository:
-
 ### Repository Structure:
 
 1. **README.md:**
